@@ -7,7 +7,7 @@ import pandas as pd
 pd.set_option('display.max_columns', 50)
 
 DATA_PATH = "datasets/"
-ICMC_PATH = "PessoasICMC/"
+ICMC_PATH = "AugmentedPessoasICMC/"
 ORIGNAL_PATH = "OrlFaces20/"
 
 
